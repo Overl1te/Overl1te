@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi there, I'm Overl1te! 👋
 
-<!--
-**Overl1te/Overl1te** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "It's just that I love coding."
 
-Here are some ideas to get you started:
+Я разработчик, увлеченный созданием кроссплатформенных приложений и инструментов. Люблю **Arch Linux**, эксперименты с **Python** и **Flutter**, а также разработку полезных утилит для десктопа и IoT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Frameworks & Tools**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Aiogram](https://img.shields.io/badge/Aiogram-1793D1?style=for-the-badge&logo=telegram&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+#### 🖥️ Desktop Development
+* **[ChronoDash](https://github.com/Overl1te/ChronoDash)** — Легкое приложение для создания прозрачных виджетов "поверх всех окон". (Python)
+* **[ChronoDash Builder](https://github.com/Overl1te/ChronoDash_Builder)** — Визуальный конструктор виджетов для ChronoDash. (Python, PyQt6)
+* **[CyberDeck](https://github.com/Overl1te/CyberDeck)** — API для удаленного управления и взаимодействия устройств. (Python)
+
+#### 📱 Mobile & IoT
+* **[CyberDeck Mobile](https://github.com/Overl1te/CyberDeck-Mobile)** — Мобильный клиент для системы CyberDeck. (Dart/Flutter)
+* **[Kinetra](https://github.com/Overl1te/kinetra)** — Мобильное приложения для фитнеса и тренировок. (Dart/Flutter)
+
+#### 🌐 Web
+* **[EduOGE](https://github.com/Overl1te/EduOGE)** — Платформа для подготовки к ОГЭ. (JavaScript)
+* **[Tester Bot](https://github.com/kirill9366/bot-tester-backend)** - Телеграм бот для проверки знаний по программированию (Python Django & aiogram)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Overl1te&show_icons=true&theme=dark&hide_border=true&locale=ru" alt="Overl1te's Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Overl1te&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" height="150"/>
+</p>
+
+---
+
+### 💬 Contact & Info
+
+* 🗣️ **Languages**: Русский / English / German
+* ✈️ **Telegram**: [Путь FullStack](https://t.me/WayFullStack)
+* ⌚ **Timezone**: UTC+3
