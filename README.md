@@ -20,6 +20,8 @@
 ![Aiogram](https://img.shields.io/badge/Aiogram-1793D1?style=for-the-badge&logo=telegram&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=nextdotjs)
+![MySQL](https://img.shields.io/badge/MySql-white?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
