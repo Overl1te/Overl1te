@@ -55,5 +55,6 @@
 ### 💬 Contact & Info
 
 * 🗣️ **Languages**: Русский / English / German
-* ✈️ **Telegram**: [Путь FullStack](https://t.me/WayFullStack)
+* ✈️ **Telegram Channel**: [Путь FullStack](https://t.me/WayFullStack)
+* 📞**Telegram**: [@Overl1te](https://t.me/Overl1te)
 * ⌚ **Timezone**: UTC+3
