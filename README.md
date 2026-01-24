@@ -40,6 +40,7 @@
 #### 🌐 Web
 * **[EduOGE](https://github.com/Overl1te/EduOGE)** — Платформа для подготовки к ОГЭ. (JavaScript)
 * **[Tester Bot](https://github.com/kirill9366/bot-tester-backend)** - Телеграм бот для проверки знаний по программированию (Python Django & aiogram)
+* **[GitHub-Stats-Generator](https://github.com/Overl1te/GitHub-Stats-Generator)** - Генератор статистики гитхаб (HTML, CSS, JavaScript)
 
 ---
 
