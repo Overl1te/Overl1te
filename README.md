@@ -32,6 +32,7 @@
 * **[ChronoDash](https://github.com/Overl1te/ChronoDash)** — Легкое приложение для создания прозрачных виджетов "поверх всех окон". (Python)
 * **[ChronoDash Builder](https://github.com/Overl1te/ChronoDash_Builder)** — Визуальный конструктор виджетов для ChronoDash. (Python, PyQt6)
 * **[CyberDeck](https://github.com/Overl1te/CyberDeck)** — API для удаленного управления и взаимодействия устройств. (Python)
+* **[QR Share](https://github.com/Overl1te/QR_Share)** - Удобная ультилита для раздачи файлов с помощью QR кода. (Python)
 
 #### 📱 Mobile & IoT
 * **[CyberDeck Mobile](https://github.com/Overl1te/CyberDeck-Mobile)** — Мобильный клиент для системы CyberDeck. (Dart/Flutter)
