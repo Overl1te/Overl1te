@@ -39,7 +39,7 @@
 * **[Kinetra](https://github.com/Overl1te/kinetra)** — Мобильное приложения для фитнеса и тренировок. (Dart/Flutter)
 
 #### 🌐 Web
-* **[EduOGE](https://github.com/Overl1te/EduOGE)** — Платформа для подготовки к ОГЭ. (JavaScript)
+* **[EduOGE](https://github.com/Overl1te/EduOGE)** — Платформа для подготовки к ОГЭ. (Python Django)
 * **[GitHub-Stats-Generator](https://github.com/Overl1te/GitHub-Stats-Generator)** - Генератор статистики гитхаб (HTML, CSS, JavaScript)
 
 ---
