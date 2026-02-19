@@ -41,6 +41,8 @@
 #### 🌐 Web
 * **[EduOGE](https://github.com/Overl1te/EduOGE)** — Платформа для подготовки к ОГЭ. (Python Django)
 * **[GitHub-Stats-Generator](https://github.com/Overl1te/GitHub-Stats-Generator)** - Генератор статистики гитхаб (HTML, CSS, JavaScript)
+* **[Repo-Inspector](https://github.com/Overl1te/Repo-Inspector)** - Генератор статистики репозитория (HTML, CSS, JavaScript, Python)
+* **[EndfieldPass](https://github.com/Overl1te/EndfieldPass)** - Счетчик круток Arknights Endfield (Python Django, HTML, CSS)
 
 ---
 
