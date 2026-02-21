@@ -52,8 +52,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Overl1te&theme=radical&locale=ru&hide_border=true&show_icons=true" alt="Overl1te's Stats" height='190px' width='395px'/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Overl1te&theme=radical&locale=ru&hide_border=true&layout=compact&langs_count=6" alt="Overl1te's Top Langs" height='190px'/>
+  <img src="https://user-inspector.vercel.app/api?username=Overl1te&kind=user&format=svg&theme=slate&locale=ru&card_width=760&animate=true&animation=all&duration=1400&cache_seconds=21600" alt="Overl1te's Stats" height='190px' width='395px'/>
+  <img src="https://user-inspector.vercel.app/api?username=Overl1te&kind=top-langs&format=svg&langs_count=6&theme=slate&locale=ru&card_width=760&animate=true&animation=all&duration=1400&cache_seconds=21600" alt="Overl1te's Top Langs" height='190px'/>
 </p>
 
 ---
