@@ -23,6 +23,7 @@
 ![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=nextdotjs)
 ![MySQL](https://img.shields.io/badge/MySql-white?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 ---
 
